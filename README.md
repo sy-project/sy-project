@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="seoyyung.com" target="_blank"><img src="https://img.shields.io/badge/111111?style=social&logo=appveyor&logoColor=224422"/></a>
+<a href="http://seoyyung.com" target="_blank"><img src="https://img.shields.io/badge/111111?style=social&logo=appveyor&logoColor=224422"/></a>
 <!--
 **sy-project/sy-project** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
