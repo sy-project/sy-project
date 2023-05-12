@@ -7,6 +7,8 @@
 <a href="https://toss.me/돈주면좋아해요" target="_blank"><img src="https://img.shields.io/badge/Toss-lightgrey?style=social&logo=applepay&logoColor=#00B3E0"/></a>
 
 ### 연락처
+<a href="mailto:official@seoyyung.com" target="_blank"><img src="https://img.shields.io/badge/official@seoyyung.com-lightgrey?style=social&logo=gmail&logoColor=#EA4335"/></a>
+gmail
 official@seoyyung.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sy-project&show_icons=true&theme=radical)
