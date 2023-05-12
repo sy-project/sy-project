@@ -1,3 +1,4 @@
+
 ### 실시간 방송
 <a href="https://twitch.tv/seoyyung" target="_blank"><img src="https://img.shields.io/badge/Twitch-lightgrey?style=social&logo=twitch&logoColor=#9146FF"/></a>
 
@@ -7,3 +8,5 @@
 
 ### 연락처
 official@seoyyung.com
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sy-project&show_icons=true&theme=radical)
