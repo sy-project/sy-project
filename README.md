@@ -5,6 +5,4 @@
 <a href="https://twip.kr/seoyyung" target="_blank"><img src="https://img.shields.io/badge/Twip-lightgrey?style=social&logo=twitch&logoColor=#00B3E0"/></a>
 
 ### 연락처
-<a href="official@seoyyung.com" target="_blank"><img src="https://img.shields.io/badge/Twip-lightgrey?style=social&logo=google&logoColor=#4285F4"/></a>
-google
 official@seoyyung.com
