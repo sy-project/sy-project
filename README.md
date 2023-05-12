@@ -3,7 +3,7 @@
 가끔 트위치, 아프리카에서 방송하기도 하는데 엄청 가끔이에요.<br/>
 남들보다 속도 하나만큼은 빠르다고 자부해서 언제든 연락 해주세요.<br/>
 > 사용언어 : C/C++/C#<br/>
-> 사용엔진 : 유니티, 언리얼, DX11(자체 엔진)<br/>
+> 사용엔진 : 유니티, 언리얼, DX11(자체 개발 엔진)<br/>
 ----
 ### SNS
 <a href="https://twitter.com/seoyyung15" target="_blank"><img src="https://img.shields.io/badge/Twitter-lightgrey?style=social&logo=twitter&logoColor=#1DA1F2"/></a>
