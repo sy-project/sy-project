@@ -6,7 +6,8 @@
 > 사용엔진 : 유니티, 언리얼, DX11(자체 개발 엔진)<br/>
 ----
 ### SNS
-<a href="https://twitter.com/seoyyung15" target="_blank"><img src="https://img.shields.io/badge/X-t?style=social&logo=x&logoColor=000000"/></a>
+<a href="https://x.com/seoyyung15" target="_blank"><img src="https://img.shields.io/badge/X-t?style=social&logo=x&logoColor=000000"/></a>
+<a href="https://x.com/7kn15_c0s" target="_blank"><img src="https://img.shields.io/badge/Cosplay-t?style=social&logo=x&logoColor=000000"/></a>
 
 ### 실시간 방송
 <a href="https://twitch.tv/seoyyung" target="_blank"><img src="https://img.shields.io/badge/Twitch-lightgrey?style=social&logo=twitch&logoColor=#9146FF"/></a>
