@@ -13,7 +13,7 @@
 <a href="https://twitch.tv/seoyyung" target="_blank"><img src="https://img.shields.io/badge/Twitch-lightgrey?style=social&logo=twitch&logoColor=#9146FF"/></a>
 
 ### 후원
-<a href="https://streamlabs.com/sl_id_1d777e74-c02b-3a16-93ed-ad57ffd4c01b/tip" target="_blank"><img src="https://img.shields.io/badge/Paypal-lightgrey?style=social&logo=paypal&logoColor=003087&labelColor=lightgrey"/></a>
+<a href="https://t.co/LOd6likzZQ" target="_blank"><img src="https://img.shields.io/badge/Paypal-lightgrey?style=social&logo=paypal&logoColor=003087&labelColor=lightgrey"/></a>
 
 ### 연락처
 <a href="mailto:official@seoyyung.com" target="_blank"><img src="https://img.shields.io/badge/official@seoyyung.com-lightgrey?style=social&logo=gmail&logoColor=#EA4335"/></a>
